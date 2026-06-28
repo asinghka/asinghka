@@ -1,4 +1,5 @@
-### Hi, there!
+### Hi, there! 👋
+
 My name is Arjun Singh Kalra, and I am a Mathematics & Computer Science graduate with a passion for GPU programming and computer graphics.
 
 ### Interests
