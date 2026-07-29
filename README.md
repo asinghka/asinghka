@@ -2,7 +2,7 @@
 
 I'm Arjun Singh Kalra, a Software Engineer with a background in Mathematics. I focus on real-time graphics and high-performance compute.
 
-### Selected work:
+### What I've built
 
 **[Oxygen](https://github.com/asinghka/oxygen-renderer)** — a real-time glTF viewer and scene editor built in Rust and wgpu. Cook–Torrance PBR, shadow mapping with PCF, tangent-space normal mapping, and live editing of lighting and material parameters.
 
